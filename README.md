@@ -11,8 +11,6 @@ Happy Coding! 😊
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
 <i>contact with me:</i><br>
 
 <a href="https://www.linkedin.com/in/mohamedalikhwass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
