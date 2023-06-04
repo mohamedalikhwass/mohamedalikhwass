@@ -4,7 +4,7 @@
 
 </div>
 
-Software Engineer. <br>
+### Software Engineer. <br>
 i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a Mobile Developer. He holds many programming languages.
 
 
@@ -23,8 +23,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 
 <h2> Samples from my projects </h2>
 </div>
-<h2> Zekrak 7esnak  </h2>
-Software Engineer. <br>
+#### Zekrak 7esnak. <br>
 i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a Mobile Developer. He holds many programming languages.
 
 
