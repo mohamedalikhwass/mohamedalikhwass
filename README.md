@@ -2,8 +2,6 @@
 
 <div align="center" width="50">
 
-<img alt="Welcome!" width="300"/>
-
 </div>
 
 You have finally discovered my Github profile. <br>
