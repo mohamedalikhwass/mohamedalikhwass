@@ -19,3 +19,4 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 
 </div>
 
+<h2> Samples from my projects </h2>
