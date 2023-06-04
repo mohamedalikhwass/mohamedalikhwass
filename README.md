@@ -4,10 +4,9 @@
 
 </div>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+Software Engineer. <br>
+i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a Mobile Developer. He holds many programming languages.
 
-Happy Coding! 😊
 
 <div align="center">
 
