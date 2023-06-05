@@ -11,8 +11,9 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <div align="center">
 
 <i>contact with me:</i><br>
-
-<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/mohamedalikhwass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mo7amed.5wass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/mo7amed3li5wass/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
 </div>
@@ -28,11 +29,8 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <img src="zekrak7esnak.png.jpeg" ">
 <div align="center">
 
-<i>contact with me:</i><br>
-
-<a href="https://www.linkedin.com/in/mohamedalikhwass/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mo7amed.5wass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/mo7amed3li5wass/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<i>Download App:</i><br>
+<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="https://www.ritavpn.com/blog/wp-content/uploads/2019/12/Best-APK-Download-Sites-for-2020.png?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 </div>
