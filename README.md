@@ -27,10 +27,10 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <br>
 <div align="right">
 <img src="zekrak7esnak.png.jpeg" ">
-<div align="center">
+<div align="center"><br>
 
-<i>Download App:</i><br>
-<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="400" height="100"></a>
+<i>Download App:</i>
+<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="500" height="100"></a>
 
 
 </div>
