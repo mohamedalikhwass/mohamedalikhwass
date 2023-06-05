@@ -30,7 +30,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <div align="center">
 
 <i>Download App:</i><br>
-<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="200" height="70"></a>
+<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="400" height="100"></a>
 
 
 </div>
