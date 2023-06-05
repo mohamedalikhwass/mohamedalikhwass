@@ -22,6 +22,22 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 </div>
 <br>
 
+### Alwateen | الوتين <br>
+تطبيق خدمي بحت  حيث يسهل عليك الوصول الي متبرع دم وقت الطوارئ ويسهل عليك عمليه البحث فمن السهل الوصول الي فصيله الدم التي تحتاجها والكميه التي تريدها بالاضافه انه يمكنك ان تتبرع ايضا للاشخاص المحتاجين وفي حاله طوارئ وايضا يساعدك علي البحث عن الغرف العنايه المتاحه ف اقرب مستشفي لك مع امكانيه التواصل مع المستشفي للحجز او الاستفسار التطبيق في الكثثير من المميزات .
+<br>
+<div align="right">
+<img src="alwateen.jpeg" width="800" height="600" ">
+<div align="center"><br>
+
+<i>Download App:</i><br>
+<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="500" height="100"></a>
+<div align="center">
+
+</div><br>
+
+</div>
+<br>
+
 ### Zekrak 7esnak | ذكرك حصنك <br>
 تطبيق ديني يوجد في بعد المميزات التي يحتاجها المسلم مثل الاذكار والتسابيح وختم الصلاه وغيرها من المميزات يمتاز التطبيق بتفاعل مع المستخدم اثناء التسابيح والاذكار يجعلك تحافظ علي اذكارك بمجرد تفعيل الاشعارات .
 <br>
