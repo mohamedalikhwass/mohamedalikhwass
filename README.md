@@ -26,7 +26,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 تطبيق ديني يوجد في بعد المميزات التي يحتاجها المسلم مثل الاذكار والتسابيح وختم الصلاه وغيرها من المميزات .
 <br>
 <div align="right">
-<img src="zekrak7esnak.png.jpeg" width="800" height="400" ">
+<img src="zekrak7esnak.png.jpeg" width="800" height="600" ">
 <div align="center"><br>
 
 <i>Download App:</i><br>
