@@ -19,14 +19,11 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 
 </div>
 
-
-
 <h2> Samples from my projects </h2>
 </div>
-##### Zekrak 7esnak. <br>
+### Zekrak 7esnak. <br>
 i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a Mobile Developer. He holds many programming languages.
 <img src="https://www.photolovegirl.com/vb/attachments/163454/" width="500" height="600">
-
 <div align="center">
 
 <i>contact with me:</i><br>
