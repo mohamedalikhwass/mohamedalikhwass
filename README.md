@@ -18,11 +18,12 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 
 
 </div>
-
+<br>
 <h2> Samples from my projects </h2>
 </div>
-### Zekrak 7esnak. <br>
-i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a Mobile Developer. He holds many programming languages.
+### Zekrak 7esnak |ذكرك حصنك <br>
+تطبيق ديني يوجد في بعد المميزات التي يحتاجها المسلم مثل الاذكار والتسابيح وختم الصلاه وغيرها من المميزات .
+<br>
 <img src="zekrak7esnak.png.jpeg" ">
 <div align="center">
 
