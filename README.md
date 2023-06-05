@@ -21,11 +21,13 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <br>
 <h2> Samples from my projects </h2>
 </div>
-### Zekrak 7esnak |ذكرك حصنك <br>
+<br>
+
+### Zekrak 7esnak | ذكرك حصنك <br>
 تطبيق ديني يوجد في بعد المميزات التي يحتاجها المسلم مثل الاذكار والتسابيح وختم الصلاه وغيرها من المميزات .
 <br>
 <img src="zekrak7esnak.png.jpeg" ">
-<div align="center">
+<div align="right">
 
 <i>contact with me:</i><br>
 
