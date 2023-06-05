@@ -26,8 +26,9 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 ### Zekrak 7esnak | ذكرك حصنك <br>
 تطبيق ديني يوجد في بعد المميزات التي يحتاجها المسلم مثل الاذكار والتسابيح وختم الصلاه وغيرها من المميزات .
 <br>
-<img src="zekrak7esnak.png.jpeg" ">
 <div align="right">
+<img src="zekrak7esnak.png.jpeg" ">
+<div align="center">
 
 <i>contact with me:</i><br>
 
