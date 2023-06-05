@@ -27,10 +27,10 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <br>
 <div align="right">
 <img src="alwateen.jpeg" width="800" height="600" ">
-<div align="center"><br>
+<div align="center">
 
 <i>Download App:</i><br>
-<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="500" height="100"></a>
+<a href="" target="_blank"><img src="apk.svg.svg" width="500" height="100"></a>
 <div align="center">
 
 </div><br>
@@ -43,7 +43,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <br>
 <div align="right">
 <img src="zekrak7esnak.png.jpeg" width="800" height="600" ">
-<div align="center"><br>
+<div align="center">
 
 <i>Download App:</i><br>
 <a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="apk.svg.svg" width="500" height="100"></a>
