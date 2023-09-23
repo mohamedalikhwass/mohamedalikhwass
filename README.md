@@ -45,7 +45,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <img src="zekrak7esnak.png.jpeg" width="800" height="600" ">
 <div align="center">
 
-<i>Download App:</i><br>
+<i>Download App:</i>
 <a href="https://play.google.com/store/apps/details?id=com.mohamed_khwass.zikrk_7isnnak&pcampaignid=web_share" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
 <div align="center">
 
