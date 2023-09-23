@@ -26,7 +26,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 تطبيق خدمي بحت  حيث يسهل عليك الوصول الي متبرع دم وقت الطوارئ ويسهل عليك عمليه البحث فمن السهل الوصول الي فصيله الدم التي تحتاجها والكميه التي تريدها بالاضافه انه يمكنك ان تتبرع ايضا للاشخاص المحتاجين وفي حاله طوارئ وايضا يساعدك علي البحث عن الغرف العنايه المتاحه ف اقرب مستشفي لك مع امكانيه التواصل مع المستشفي للحجز او الاستفسار التطبيق في الكثثير من المميزات .
 <br>
 <div align="right">
-<img src="alwateen.jpeg" width="800" height="1000" ">
+<img src="alwateen.jpeg" width="800" height="800" ">
 <div align="center">
 
 <i>Download App:</i><br>
