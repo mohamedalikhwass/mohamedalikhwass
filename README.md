@@ -26,7 +26,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 رشحلي هوا تطبيق يتيح لك اسعار ومواصفات ومقارنات الموبيلات والساعات الذكيه والسماعات ايضا التطبيق يحتوي علي جميع الاقسام التي تحتاجها في مواصفات الاجهزه االاسعار محدثه باستمرار مع الاشعارات التي تنبهك عندما يتغير سعر جهاز ما او عن اضافه جهاز جديد يرسل لك اشعار بذالك التطبيق سهل التعامل مع للغايه وسريع جدا التطبيق يحتوي علي جميع الموبيبلات والسماعات وساعات الذكيه وكمان تقدر تقارن بين اي جهازين سواء كانو موبايلات او الساعات او السماعات ومميزات تانيه . 
 <br>
 <div align="right">
-<img src="rashhli.jpeg" width="600" height="800" ">
+<img src="rashhli.jpeg" width="450" height="650" ">
 <div align="center">
 
 <i>Download App:</i><br>
@@ -41,7 +41,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 رشحلي ادمن لوحه تحكم لتطبيق رشحلي لوحه تحكم كامله (andriod & web & desktop) وتحتوي علي اضافه اجهزه موبايلات او ساعات او سماعات بكل التفاصيل وكمان تقدر تعدل علي اي جهاز او تحذفه واضافه او حذف Slider image ومميزات تانيه . 
 <br>
 <div align="right">
-<img src="rashhliadmin.jpeg" width="600" height="800" ">
+<img src="rashhliadmin.jpeg" width="450" height="650" ">
 <div align="center">
 
 <i>Download App:</i><br>
