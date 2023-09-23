@@ -30,7 +30,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <div align="center">
 
 <i>Download App:</i><br>
-<a href="" target="_blank"><img src="googleplay.png" width="500" height="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.alwateenBloodBank&pcampaignid=web_share" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
 <div align="center">
 
 </div><br>
@@ -46,7 +46,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <div align="center">
 
 <i>Download App:</i><br>
-<a href="https://drive.google.com/file/d/1vDtagsKqAxIOeotOQmzhOU5IDWr6MpFl/view?usp=drive_link" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
+<a href="https://play.google.com/store/apps/details?id=com.mohamed_khwass.zikrk_7isnnak&pcampaignid=web_share" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
 <div align="center">
 
 </div>
