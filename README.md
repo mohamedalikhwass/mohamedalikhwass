@@ -30,7 +30,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <div align="center">
 
 <i>Download App:</i><br>
-<a href="" target="_blank"><img src="googlep.png" width="500" height="100"></a>
+<a href="" target="_blank"><img src="googleplay.png" width="500" height="100"></a>
 <div align="center">
 
 </div><br>
